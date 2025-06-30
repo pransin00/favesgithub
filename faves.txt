@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Fries
 Sundae
 Chicken
+=======
+Frozen
+2521
+ Mr. Sunshine
+>>>>>>> movies
